@@ -1,2 +1,3 @@
-# A.D.A.M
-Trabajo de Grado
+# MANUAL ANALISIS DINAMICO DE APLICACIONES MONOLITICAS (A.D.A.M)
+En el presente manual se presentar ́a los diversos pasos para configurar y eje-cutar de una forma correcta a ADAM, Sin embargo ADAM se podr ́a ejecutar de dosmaneras diferentes, las cuales se podr ́an ejecutar dependiendo del contexto en elque se quiera realizar el an ́alisis din ́amico y as ́ı obtener los resultados esperados.El  primer  m ́etodo  es  mediante  un  agente  est ́atico  en  el  cual  es  lanzado  casial mismo tiempo que es lanzado el JVM de la aplicaci ́on que se quiere analizar;por otro lado el segundo m ́etodo de an ́alisis es ejecutado por medio de un agentedin ́amico el cual es lanzado despu ́es del JVM de la aplicaci ́on a analizar, adem ́aspara ejecutar este agente se debe tener el PID de la correspondiente aplicaci ́on
+
